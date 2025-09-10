@@ -1,0 +1,5 @@
+Release: v1.4.0
+Date: 10-09-2025
+Release Notes: Wifi Node app - Xwan
+Device Alert, Webhook, OEM - Xwan and Reboot
+Router and Command node app - Reboot 
